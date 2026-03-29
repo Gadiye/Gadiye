@@ -13,35 +13,8 @@ I build modular, scalable applications — whether orchestrating a backend or fi
 
 I have a natural tendency to over-engineer — a trait I previously clung to. Necessity has painfully taught me the value of intentional simplification. The most elegant solution is often the simplest one. By treating both complexity and simplicity as tools rather than goals, I've become a more confident and efficient problem-solver.
 <div class="container">
-  <img decoding="async" src="https://i.imgflip.com/anuwd0.jpg" alt="Image Description">
+  <img class='resize_fit_center' src="https://i.imgflip.com/anuwd0.jpg'>
 </div>
-
-
-
-
-
-<div class='container'>
-    <a href='#'>
-    <img class='resize_fit_center'
-      src='http://i.imgur.com/H9lpVkZ.jpg' />
-    </a>
-</div>
-*/
-
-.container {
-    margin: 10px;
-    width: 115px;
-    height: 115px;
-    line-height: 115px;
-    text-align: center;
-    border: 1px solid red;
-}
-.resize_fit_center {
-    max-width:100%;
-    max-height:100%;
-    vertical-align: middle;
-}
-
 
 ---
 
