@@ -12,6 +12,7 @@ I build modular, scalable applications — whether orchestrating a backend or fi
 ## 🧠 Engineering Philosophy
 
 I have a natural tendency to over-engineer — a trait I previously clung to. Necessity has painfully taught me the value of intentional simplification. The most elegant solution is often the simplest one. By treating both complexity and simplicity as tools rather than goals, I've become a more confident and efficient problem-solver.
+<a href="https://imgflip.com/i/anuw72"><img src="https://i.imgflip.com/anuw72.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
 
 ---
 
