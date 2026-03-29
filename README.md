@@ -80,3 +80,20 @@ I aim to build systems that:
 ---
 
 *Let's build something that lasts.*
+
+## 🐍 My Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gadiye/Gadiye/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Gadiye/Gadiye/output/github-snake.svg"
+  />
+  <img
+    alt="Snake animation of my GitHub contribution graph"
+    src="https://raw.githubusercontent.com/Gadiye/Gadiye/output/github-snake.svg"
+  />
+</picture>
