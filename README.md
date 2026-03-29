@@ -22,12 +22,6 @@ CSS
   justify-content: center;
 }
 
-
-
-
-
-<a href="https://imgflip.com/i/anuwd0"><img src="https://i.imgflip.com/anuwd0.jpg" title="made at imgflip.com" width="350" height="400"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
-
 ---
 
 ## ⚙️ Modern DevOps & Systems (2026)
