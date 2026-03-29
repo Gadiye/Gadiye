@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 
-# Hi, I'm [Gadiye] 👋
+# Hi, I'm Gadiye 👋
 ### Full-Stack Software Engineer & Systems Architect
-  philosophy
-> *"Complexity and simplicity are two sides of the same coin."*
+
+> *"Complexity vs simplicity."*
 
 I build modular, scalable applications — whether orchestrating a backend or fine-tuning a frontend. My focus is on systems that are as efficient as they are robust.
 
@@ -13,7 +13,7 @@ I build modular, scalable applications — whether orchestrating a backend or fi
 
 I have a natural tendency to over-engineer — a trait I previously clung to. Necessity has painfully taught me the value of intentional simplification. The most elegant solution is often the simplest one. By treating both complexity and simplicity as tools rather than goals, I've become a more confident and efficient problem-solver.
 
-<img src="https://i.imgflip.com/anuxqz.jpg" title="made at imgflip.com" width="550" height="600"/></a>
+<img src="https://i.imgflip.com/anuxqz.jpg" title="made at imgflip.com" width="550" height="600"/>
 
 ---
 
@@ -35,28 +35,28 @@ I view DevOps as the ultimate tool for simplification. In 2026, it's no longer j
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Backend & Systems**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI / LLM Stack**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 ---
 
@@ -82,6 +82,8 @@ I aim to build systems that:
 ---
 
 *Let's build something that lasts.*
+
+---
 
 ## 🐍 My Contributions
 
