@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- GitHub Profile README -->
 
-<!--
-**Gadiye/Gadiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Gadiye] 👋
+### Full-Stack Software Engineer & Systems Architect
 
-Here are some ideas to get you started:
+> *"Complexity and simplicity are two sides of the same coin."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modular, scalable applications — whether orchestrating a backend or fine-tuning a frontend. My focus is on systems that are as efficient as they are robust.
+
+---
+
+## 🧠 Engineering Philosophy
+
+I have a natural tendency to over-engineer — a trait I previously clung to. Necessity has painfully taught me the value of intentional simplification. The most elegant solution is often the simplest one. By treating both complexity and simplicity as tools rather than goals, I've become a more confident and efficient problem-solver.
+
+---
+
+## ⚙️ Modern DevOps & Systems (2026)
+
+> *"DevOps has moved from manual scripts to AI-augmented operating models."*
+
+I view DevOps as the ultimate tool for simplification. In 2026, it's no longer just about Docker or Jenkins — it's about building **Autonomous Pipelines** and **Internal Developer Platforms (IDPs)** that eliminate friction.
+
+| | |
+|---|---|
+| **The Goal** | Automate complex infrastructure tasks to maintain reliability and cost-efficiency without the overhead |
+| **The Method** | AI-driven insights handle the heavy lifting while I focus on high-level architectural analysis and intentional simplification |
+| **The Result** | Software that maintains the perfect balance of robustness and cost-efficiency |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+**Backend & Systems**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI / LLM Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+
+---
+
+## ⚡ Engineering Focus
+
+- **System Design & Architecture** — building for scale from day one
+- **Backend Orchestration & APIs** — clean contracts, reliable execution
+- **AI-Augmented Systems** — LangChain, agents, RAG pipelines
+- **Scalable Frontend Systems** — performance-first, component-driven
+- **Developer Experience & Internal Tools** — eliminating friction for the team
+
+---
+
+## 📌 Closing Note
+
+I don't aim to build impressive systems.
+
+I aim to build systems that:
+- ✅ Work under pressure
+- ✅ Scale without breaking
+- ✅ Stay simple longer than expected
+
+---
+
+*Let's build something that lasts.*
