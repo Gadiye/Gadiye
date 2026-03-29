@@ -3,8 +3,6 @@
 # Hi, I'm Gadiye 👋
 ### Full-Stack Software Engineer & Systems Architect
 
-> *"Complexity and simplicity are two sides of the same coin."*
-
 I build modular, scalable applications — whether orchestrating a backend or fine-tuning a frontend. My focus is on systems that are as efficient as they are robust.
 
 ---
@@ -18,8 +16,6 @@ I have a natural tendency to over-engineer — a trait I previously clung to. Ne
 ---
 
 ## ⚙️ Modern DevOps & Systems (2026)
-
-> *"DevOps has moved from manual scripts to AI-augmented operating models."*
 
 I view DevOps as the ultimate tool for simplification. In 2026, it's no longer just about Docker or Jenkins — it's about building **Autonomous Pipelines** and **Internal Developer Platforms (IDPs)** that eliminate friction.
 
