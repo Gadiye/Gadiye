@@ -2,7 +2,7 @@
 
 # Hi, I'm [Gadiye] 👋
 ### Full-Stack Software Engineer & Systems Architect
-
+  philosophy
 > *"Complexity and simplicity are two sides of the same coin."*
 
 I build modular, scalable applications — whether orchestrating a backend or fine-tuning a frontend. My focus is on systems that are as efficient as they are robust.
