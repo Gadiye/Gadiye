@@ -15,12 +15,33 @@ I have a natural tendency to over-engineer — a trait I previously clung to. Ne
 <div class="container">
   <img decoding="async" src="https://i.imgflip.com/anuwd0.jpg" alt="Image Description">
 </div>
-CSS
+
+
+
+
+
+<div class='container'>
+    <a href='#'>
+    <img class='resize_fit_center'
+      src='http://i.imgur.com/H9lpVkZ.jpg' />
+    </a>
+</div>
+*/
+
 .container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    margin: 10px;
+    width: 115px;
+    height: 115px;
+    line-height: 115px;
+    text-align: center;
+    border: 1px solid red;
 }
+.resize_fit_center {
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
+}
+
 
 ---
 
