@@ -11,7 +11,7 @@ I build modular, scalable applications — whether orchestrating a backend or fi
 
 I have a natural tendency to over-engineer — a trait I previously clung to. Necessity has painfully taught me the value of intentional simplification. The most elegant solution is often the simplest one. By treating both complexity and simplicity as tools rather than goals, I've become a more confident and efficient problem-solver.
 
-<img src="https://i.imgflip.com/anuxqz.jpg" title="made at imgflip.com" width="550" height="600"/>
+<img src="https://i.imgflip.com/anuxqz.jpg" title="made at imgflip.com" width="350" height="350"/>
 
 ---
 
@@ -22,7 +22,7 @@ I view DevOps as the ultimate tool for simplification. In 2026, it's no longer j
 | | |
 |---|---|
 | **The Goal** | Automate complex infrastructure tasks to maintain reliability and cost-efficiency without the overhead |
-| **The Method** | AI-driven insights handle the heavy lifting while I focus on high-level architectural analysis and intentional simplification |
+| **The Method** | AI-driven insights handle the heavy lifting while I focus on high-level architectural analysis and Orchestration |
 | **The Result** | Software that maintains the perfect balance of robustness and cost-efficiency |
 
 ---
@@ -46,13 +46,6 @@ I view DevOps as the ultimate tool for simplification. In 2026, it's no longer j
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI / LLM Stack**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 ---
 
